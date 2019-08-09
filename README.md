@@ -14,9 +14,9 @@ name: The Name of the Plan (e.g. Convict Conditioning)
 exercises:
   - name: Exercise Name (e.g. Squats)
     progressions:
-      - name: Shoulderstand Squats
+      - name: Progression Name (e.g. Shoulderstand Squats)
         goals:
-          - name: Beginner standard
+          - name: Goal Name (e.g. Beginner standard)
             sets: 1
             reps: 10
           - name: Intermediate standard
